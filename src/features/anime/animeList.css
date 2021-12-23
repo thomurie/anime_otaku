@@ -1,0 +1,5 @@
+.AnimeList {
+  display: grid;
+  height: 80vh;
+  grid-template-columns: repeat(auto, minMax(500px, 1fr));
+}
