@@ -19,7 +19,7 @@ const Nav = () => {
   return (
     <Flex>
       <Box p="4">
-        <Heading>Anime List</Heading>
+        <Heading>Anime Otaku | アニメオタク</Heading>
       </Box>
       <Spacer />
       <Box p="4">
